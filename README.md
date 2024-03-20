@@ -1,4 +1,4 @@
-# Metrohyve
+# 6B28
 
 [![Postgres](https://img.shields.io/badge/Postgres-699eca?style=flat-square&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![Express](https://img.shields.io/badge/Express-gray?style=flat-square&link=https://expressjs.com/)](https://expressjs.com/)
@@ -105,11 +105,7 @@ npm start
 
 Go to http://localhost:3000 to view the app running on your browser.
 
-# Feedback
-
-John Leonoras - [@johnleonoras](https://twitter.com/johnleonoras) - leonorasjohn@gmail.com
-
-Poject Link: [https://github.com/jleonoras/metrohyve](https://github.com/jleonoras/metrohyve)
+# Demo
 
 Demo Link: [https://metrohyve.eu.org](https://metrohyve.eu.org)
 
